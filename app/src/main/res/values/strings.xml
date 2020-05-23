@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Wala</string>
+
+    <string name="welcome_string">Welcome</string>
+    <string name="email_hint">Enter your Email...</string>
+    <string name="password_hint">Enter Password...</string>
+
+    <!-- Login Activity Strings-->
+    <string name="login_button_text">Login</string>
+    <string name="forget_password_text">Forgot your password?</string>
+    <string name="login_below_welcome_text">Sign In To Continue</string>
+    <string name="login_sign_up_text">Sign Up Now</string>
+    <string name="new_here">First time here ?</string>
+
+    <!--Forget password Activity strings-->
+    <string name="already_here">Not the first time here ?</string>
+    <string name="forget_hint">Please enter your Email Id \n for reset your password</string>
+    <string name="forget">Forget Password ?</string>
+
+    <string name="sign_in">Sign In</string>
+
+    <!--Signup Activity Strings-->
+    <string name="below_welcome_text">Sign Up Now</string>
+    <string name="name_hint">Enter Your Name...</string>
+    <string name="button_next">SignUp</string>
+    <string name="confirm_password_hint">Confirm Your Password...</string>
+    <string name="password_pattern">Password must contain : \n •More then 8 digits \n • A Capital Letter(A-Z) \n • A Small Letter(a-z)
+    \n • A special Character(@#,$,%,^,&amp;,+,=)</string>
+    <string name="loading_string">Loading...</string>
+    <string name="about_app_text">About our App</string>
+    <string name="Creator1">Mohit Sharma</string>
+    <string name="Creator2">Shubham Jain</string>
+    <string name="follow_string">You can follow us on</string>
+    <string name="createdby_string">Created By</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="report_hint_text">Your Report..</string>
+
+    <string name="facebook_app_id">629444840913331</string>
+    <string name="fb_login_protocol_scheme">fb629444840913331</string>
+    <string name="emptyCart">Cart is empty</string>
+    <string name="deliveryCharge">DeliveryCharge:</string>
+    <string name="total_text">Total:</string>
+    <string name="address_text">Delivery Address:</string>
+    <string name="proceed">Proceed</string>
+    <string name="items">Items :</string>
+    <string name="cancelOrderButtonText">Cancel Order</string>
+    <string name="orderLayoutTextSize">15sp</string>
+    <string name="selectPaymentOptions">Select one Payment Option:</string>
+    <string name="selectYourPreference">Select Your time Slot Preference</string>
+    <string name="addAddress">Add Address</string>
+    <string name="cityHint">Enter your City</string>
+    <string name="nameHint">Enter your Full Name</string>
+    <string name="mobileHint">Enter Your 10 digit mobile number</string>
+    <string name="pincodeHint">Enter 6 digit PinCode</string>
+    <string name="houseHint">Enter Flat/ House No. / Floor/ Building</string>
+    <string name="localityHint">Enter Colony / Street / Locality</string>
+    <string name="landmarkHint">Enter LandMark</string>
+    <string name="payOrderButtonText">Pay for Order</string>
+
+
+</resources>
